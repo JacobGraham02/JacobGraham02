@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JacobGraham02. I am in my 2nd year at Lakehead-Georgian Honours Bachelor of Science in Computer Science with Computer Programming Diploma program. 
+- 👋 Hi, I’m @JacobGraham02, a 2nd year BSc. Computer Science student enrolled in Lakehead-Georgian's Honours Bachelor of Science in Computer Science with Computer Programming Diploma program. 
 - 👀 I’m interested in ... Building full-stack web applications that are useful and improve the lives of others. 
-- 🌱 I’m currently learning ... PHP, Java, C#, JavaScript, MySQL, and any associated frameworks.
+- 🌱 I’m currently learning ... Java, C++, PHP, JavaScript, 
 - 📫 How to reach me ... My LinkedIn profile: https://www.linkedin.com/in/jacob-graham02/
 
 <!---
