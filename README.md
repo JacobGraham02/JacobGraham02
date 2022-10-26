@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JacobGraham02.
+- 👋 Hi, I’m @JacobGraham02. I am a third-year Honours Computer Science student getting my Computer Science degree from Lakehead University and Computer Programmer diploma from Georgian College. 
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Linux, Java, JavaScript, PHP, C++
+- 🌱 I’m currently learning ... Linux, Assembly, Java, JavaScript, PHP
 - 📫 How to reach me ... My LinkedIn profile: https://www.linkedin.com/in/jacob-graham02/
 
 <!---
