@@ -1,4 +1,4 @@
-#### Hello! I am @JacobGraham02. I am a fourth-year BSc. Honours Computer Science student getting my Computer Science degree from Lakehead University.I am primarily interested in building applications which combine many useful services together, such #### as my DiscordStudentHelper bot which combines Discord, Mongodb, and Google Maps to assist students in their studies. 
+#### Hello! I am @JacobGraham02. I am a fourth-year BSc. Honours Computer Science student getting my Computer Science degree from Lakehead University.I am primarily interested in building applications which combine many useful services together, such  as my DiscordStudentHelper bot which combines Discord, Mongodb, and Google Maps to assist students in their studies. 
 #### I graduate from Lakehead University in May 2024
 
 #### The technologies I use daily and am most familiar with include Java, JavaScript, Php, TypeScript, HTML, and CSS. Additionally, I use Docker, Laravel, MySQL, and MongoDB. I am currently studying to obtain my CCNA 
