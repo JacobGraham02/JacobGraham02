@@ -1,13 +1,11 @@
 <h1 align="center">Hello! My name is JacobGraham02</h1>
-<h3 align="center">I am a fourth-year BSc. Honours Computer Science student getting my Computer Science degree from Lakehead University.I am primarily interested in building applications which combine many useful services together, such as my DiscordStudentHelper bot which combines Discord, Mongodb, and Google Maps to assist students in their studies.</h3>
+<h3 align="center">I am a fourth-year BSc. Honours Computer Science student getting my Computer Science degree from Lakehead University. I am primarily interested in building applications which combine many useful services together, such as  Discord Student Helper bot, which combines Discord, Microsoft Azure, MySQL, and Google Maps to assist students in their studies.</h3>
 
-- I am currently working on [Student Bot Helper](A Discord bot using Discord.js, JavaScript, MySQL, Google Places API, and Google Directions API to relieve students of menial and repetitive work.)
+- I am currently working on Student Helper Bot, a Discord bot using Discord.js, JavaScript, MySQL, Google Places API, and Google Directions API to relieve students of menial and repetitive work
 
-- 📝 My portfolio page is available at **https://jacobdamiangraham.com**
+- I am currently working on MonsterAssault, a mobile application that aims to replicate the experience of playing the deprecated game SAS: Zombie Assault for a mobile device.
 
-- I am currently working on **MonsterAssault**
-
-- I am currently working on [SCUM Chat Monitor](An in-game bot integration for SCUM using the Discord.js API, Node.js, JavaScript, MongoDB, and Windows Powershell making players’ experience more dynamic and intuitive.)
+- I am currently working on SCUM Chat Monitor, an in-game bot integration for SCUM using the Discord.js API, Node.js, JavaScript, MongoDB, and Windows Powershell making players’ experience more dynamic and intuitive.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
