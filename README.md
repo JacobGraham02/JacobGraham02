@@ -1,11 +1,12 @@
-<h1 align="center">Hello! My name is JacobGraham02</h1>
-<h3 align="center">I am a fourth-year BSc. Honours Computer Science student getting my Computer Science degree from Lakehead University. I am primarily interested in building applications which combine many useful services together, such as  Discord Student Helper bot, which combines Discord, Microsoft Azure, MySQL, and Google Maps to assist students in their studies.</h3>
+<h1 align="center">Hello! My name is Jacob Graham</h1>
+<h3 align="center">I am a fourth-year Honours Computer Science student getting my Bachelor of Arts degree in Computer Science from Lakehead University. I am primarily interested in building applications which combine many useful services together, such as  Discord Student Helper bot: combining Discord, Microsoft Azure, MySQL, and Google Maps to assist students in their studies.</h3>
 
-- I am currently working on Student Helper Bot, a Discord bot using Discord.js, JavaScript, MySQL, Google Places API, and Google Directions API to relieve students of menial and repetitive work
-
-- I am currently working on MonsterAssault, a mobile application that aims to replicate the experience of playing the deprecated game SAS: Zombie Assault for a mobile device.
-
-- I am currently working on SCUM Chat Monitor, an in-game bot integration for SCUM using the Discord.js API, Node.js, JavaScript, MongoDB, and Windows Powershell making players’ experience more dynamic and intuitive.
+<h3>Below is a list of projects I am currently working on</h3>
+<ol>
+  <li><h4><a href="https://github.com/JacobGraham02/StudentBotHelper">Student Helper Bot</a>, a Discord bot which uses Discord.js, JavaScript, MySQL, Google Places API, and Google Directions API to relieve students of menial and repetitive work</h4></li>
+  <li><h4><a href="https://github.com/JacobGraham02/SCUMChatMonitor">SCUM Chat Monitor</a>, an in-game bot integration for SCUM using the Discord.js API, Node.ks, JavaScript, MongoDB, and Windows Powershell making players' experience more dynamic and intuitive</li>
+  <li><h4><a href="https://github.com/JacobGraham02/MonsterAssault">MonsterAssault</a>, a mobile application that aims to replicate the experience of playing the deleted game SAS: Zombie Assault on a mobile device</li>
+</ol>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
