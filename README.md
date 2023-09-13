@@ -1,5 +1,5 @@
 <h1 align="center">Hello! My name is Jacob Graham</h1>
-<h3 align="center">I am a fourth-year Honours Computer Science student getting my Bachelor of Arts degree in Computer Science from Lakehead University. I am primarily interested in building applications which combine many useful services together, such as  Discord Student Helper bot: combining Discord, Microsoft Azure, MySQL, and Google Maps to assist students in their studies.</h3>
+<h3>I am a fourth-year Honours Computer Science student getting my Bachelor of Arts degree in Computer Science from Lakehead University. I am primarily interested in building applications which combine many useful services together, such as  Discord Student Helper bot: combining Discord, Microsoft Azure, MySQL, and Google Maps to assist students in their studies.</h3>
 
 <h3>Below is a list of projects I am currently working on</h3>
 <ol>
